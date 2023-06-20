@@ -3,3 +3,44 @@ body {
   height: 100%;
   margin: 0;
 }
+
+h1 {
+
+  text-align: center;
+  
+  }
+
+ figure {
+
+  text-align: center;
+
+    
+    }
+  
+    a {
+      background: lightblue;  
+      width: 10px
+      }
+
+      nav {
+
+        text-align: center;
+        
+        }
+
+        #featured-property p {
+        width: 800px;
+        text-align: center;
+        margin: auto
+        }
+
+        #details div {
+
+          float: left;
+        background: red;
+        text-align: center;
+        width: 25%
+      
+        }
+      
+      
